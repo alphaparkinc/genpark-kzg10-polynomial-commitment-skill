@@ -1,0 +1,14 @@
+{
+  "name": "genpark-kzg10-polynomial-commitment-skill",
+  "version": "1.0.0",
+  "description": "KZG10 polynomial commitment scheme providing constant-size cryptographic commitments and evaluation opening proofs over pairing groups.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "kzg10",
+    "polynomial-commitment",
+    "zero-knowledge",
+    "zk-snark",
+    "cryptography"
+  ]
+}
